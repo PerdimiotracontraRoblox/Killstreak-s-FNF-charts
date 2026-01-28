@@ -9,3 +9,13 @@ did i forget to mention its psych charts?
 
 kade engine fans begone
 unless you have psych lmfao
+
+Songs in this "mod":
+Tsukareta
+
+
+
+
+
+...thats it.
+The songs can be found on freeplay or story mode.
