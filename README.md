@@ -19,4 +19,4 @@ Tsukareta
 
 
 ...thats it.
-The songs can be found on freeplay or story mode.
+The songs can be found on ONLY freeplay.
