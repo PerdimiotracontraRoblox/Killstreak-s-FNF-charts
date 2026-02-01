@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				-2,
+				0,
 				0
 			],
 			"loop": false,
@@ -61,8 +61,8 @@
 	"image": "characters/tsukaretaExpunged",
 	"shake_duration": 0.05,
 	"position": [
-		-300,
-		-500
+		-260,
+		-750
 	],
 	"health_drain": true,
 	"shake_intensity": 0.005,
@@ -75,12 +75,12 @@
 		36,
 		45
 	],
-	"drain_amount": 0.5,
+	"drain_amount": 0.005,
 	"camera_position": [
-		-170,
-		55
+		-1750,
+		-1545
 	],
 	"sing_duration": 6.1,
 	"noteskin": "NOTE_colored3d",
-	"scale": 1
+	"scale": 3
 }
