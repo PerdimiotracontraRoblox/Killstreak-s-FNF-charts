@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"tsukareta",
+			"tsuka",
+			[
+				35,
+				35,
+				35
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal, unnerfed, new, unnerfednew",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "did yo press seven'!!\"1\"'1'\"'\"!\"\"1'111!!!1''1!",
+	"weekName": "i ate a chargoggagoggmanchauggagoggchaubunagungamaugg",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
