@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FSM.png">
+<SubTexture name="FSM down0000" x="0" y="661" width="768" height="642" frameX="-147" frameY="-216" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM down0001" x="2313" y="635" width="767" height="632" frameX="-139" frameY="-212" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM down0002" x="794" y="1943" width="765" height="623" frameX="-137" frameY="-207" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM idle0000" x="819" y="2573" width="798" height="576" frameX="-151" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM idle0001" x="0" y="2573" width="819" height="594" frameX="-142" frameY="-246" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM idle0002" x="0" y="1943" width="794" height="630" frameX="-131" frameY="-198" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM idle0003" x="1532" y="0" width="781" height="640" frameX="-128" frameY="-185" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM idle0004" x="1559" y="1943" width="765" height="623" frameX="-137" frameY="-207" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM left0000" x="2313" y="0" width="791" height="635" frameX="-106" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM left0001" x="2313" y="1267" width="783" height="629" frameX="-116" frameY="-201" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM left0002" x="2324" y="1943" width="765" height="623" frameX="-137" frameY="-207" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM right0000" x="0" y="1303" width="798" height="640" frameX="-134" frameY="-186" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM right0001" x="798" y="1303" width="788" height="639" frameX="-131" frameY="-186" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM right0002" x="1532" y="640" width="781" height="640" frameX="-128" frameY="-185" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM up0000" x="0" y="0" width="766" height="661" frameX="-137" frameY="-165" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM up0001" x="766" y="0" width="766" height="645" frameX="-137" frameY="-183" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="FSM up0002" x="3104" y="0" width="766" height="623" frameX="-137" frameY="-207" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>
