@@ -1,0 +1,41 @@
+{
+	"storyName": "you peeker",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"realisticfulN",
+			"FSM",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"tsukaretaTroojinRMX",
+			"tsuka",
+			[
+				35,
+				35,
+				35
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": " ",
+	"hiddenUntilUnlocked": false
+}
