@@ -11,8 +11,6 @@ did i forget to mention its psych charts?
 kade engine fans begone
 unless you have psych lmfao
 
-Songs in this "mod":
-Tsukareta (and Troojin remix), Realisticful (nullified)
 
 
 
