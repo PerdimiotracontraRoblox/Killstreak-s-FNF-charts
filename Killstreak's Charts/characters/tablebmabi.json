@@ -1,0 +1,42 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Table idle"
+		}
+	],
+	"vocals_file": "dad",
+	"no_antialiasing": false,
+	"image": "characters/Table",
+	"shake_duration": 0.01,
+	"position": [
+		-250,
+		100
+	],
+	"health_drain": true,
+	"shake_intensity": 0.0005,
+	"healthicon": "table",
+	"shake_screen": true,
+	"drain_floor": 0.25,
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		126,
+		93
+	],
+	"drain_amount": 0.005,
+	"camera_position": [
+		175,
+		50
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"scale": 0.7
+}
